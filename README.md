@@ -18,6 +18,21 @@ AI-powered knowledge platform providing executives with citation-backed insights
 - Speaker, timestamp, and episode references
 - Scalable production deployment
 
+- ## Screenshots
+
+### Executive Query with Citations
+![AI response with citations](docs/screenshots/assistant-response.png)
+
+### Source Attribution & Traceability
+![Source attribution view](docs/screenshots/citations-view.png)
+
+### Azure AI Search Index
+![Azure AI Search index](docs/screenshots/azure-search-index.png)
+
+### High-Level Architecture
+![Azure RAG architecture](docs/screenshots/architecture.png)
+
+
 ## Technical Implementation
 - Integrated Azure AI Search with GPT-4o
 - Implemented RAG architecture for grounded responses
